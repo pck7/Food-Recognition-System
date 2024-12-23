@@ -1,4 +1,4 @@
-# Spots Nutrition Tracking  
+# Sports Nutrition Tracking  
 
 **Author**: Piyush Chanduka  
 **Institution**: BITS Pilani, Pilani Campus  
